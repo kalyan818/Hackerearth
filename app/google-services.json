@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967553208283",
+    "firebase_url": "https://kickstarter-bcc55.firebaseio.com",
+    "project_id": "kickstarter-bcc55",
+    "storage_bucket": "kickstarter-bcc55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967553208283:android:af66f5ab1cd6d862e5a1fe",
+        "android_client_info": {
+          "package_name": "com.example.kickstarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967553208283-kt1l9eci39e7u69jdm7r0rrsb8u3ce2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kickstarter",
+            "certificate_hash": "b5cf1e32632af325d46ba1c9a274f297e7336e09"
+          }
+        },
+        {
+          "client_id": "967553208283-dp4evmg5f61oo54d4v12rij2t3j3l5t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpWTq-uLbZRqSKFaWy8q7pYoEQ2G2u-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967553208283-dp4evmg5f61oo54d4v12rij2t3j3l5t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

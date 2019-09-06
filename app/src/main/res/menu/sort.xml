@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Alphabit"
+        android:title="By Alphabit"/>
+    <item
+        android:id="@+id/Time"
+        android:title="By Time"/>
+    <item
+        android:id="@+id/Backers"
+        android:title="By Backers"/>
+    <item
+        android:id="@+id/Pledged"
+        android:title="By Pledged"/>
+    <item
+        android:id="@+id/Funded"
+        android:title="By Funded"/>
+</menu>
